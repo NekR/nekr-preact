@@ -12,7 +12,7 @@ export function collectNode(node) {
 		node._component = node._componentConstructor = null;
 
 		let name = node.normalizedNodeName || toLowerCase(node.nodeName);
-		(nodes[name] || (nodes[name] = [])).push(node);
+		// (nodes[name] || (nodes[name] = [])).push(node);
 	}
 }
 

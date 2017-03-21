@@ -1,6 +1,6 @@
 {
-  "name": "preact",
-  "amdName": "preact",
+  "name": "nekr-preact",
+  "amdName": "nekr-preact",
   "version": "7.2.0",
   "description": "Tiny & fast Component-based virtual DOM framework.",
   "main": "dist/preact.js",
